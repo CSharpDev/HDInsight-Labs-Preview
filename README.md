@@ -8,11 +8,11 @@ Hands-On Labs are sets of step-by-step guides that are designed to help you lear
 
 This is a preview of a set of hands on labs covering: 
 
-Lab 1 creates a MapReduce job in C#, javascript and F# then runs the job on an Azure cluster using HDInsight. 
-Lab 2 chains multiple MapReduce jobs together.
-Lab 3 imports tab separated data into an Azure cluster using Hive-based connectivity and then analyses the data using HiveQL. 
-Lab 4 uses the Hive ODBC driver to export data from an HDInsight cluster into Excel then visualise the data using PivotTable and PivotChart.
-Lab 5 demonstrates how to use Mahout to build a recommendation engine using collaborative filtering. 
+* Lab 1 creates a MapReduce job in C#, javascript and F# then runs the job on an Azure cluster using HDInsight. 
+* Lab 2 chains multiple MapReduce jobs together.
+* Lab 3 imports tab separated data into an Azure cluster using Hive-based connectivity and then analyses the data using HiveQL. 
+* Lab 4 uses the Hive ODBC driver to export data from an HDInsight cluster into Excel then visualise the data using PivotTable and PivotChart.
+* Lab 5 demonstrates how to use Mahout to build a recommendation engine using collaborative filtering. 
 
 In the **Source** folder you will find the source code of each of the labs/exercises, as well as the assets and setup scripts. Throughout the HOL you will be instructed to open and explore the different solutions from the source folder. It is typically comprised of the following subfolders:
 
